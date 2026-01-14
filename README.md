@@ -1,2 +1,2 @@
-# master-simulering
-Kode for å bygge cpter for en BN, samt simulering og testing. 
+# Master Thesis Code
+Code for creating and drawing BN, simulation and plotting.
